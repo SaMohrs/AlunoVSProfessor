@@ -1,21 +1,57 @@
-<h1 align="left">Jogo Professor VS Aluno</h1>
+# 🎮 Professor VS Aluno
 
-Antes de inicar o jogo, no terminal no caminho {C:...\ProfessorVSAluno>} digite {uv run}
+Um jogo desenvolvido em Python utilizando Pygame.
 
-Caso não tenha o UV instalado:
+Antes de começar, escolha uma das duas formas de executar o jogo:
 
-1 - Abra o terminal do seu computador (comando Windows + R, busque por cmd, se for Windows)
+## 🚀 Executando com Python e UV
 
-2 - Digite {pip install uv}
+### 1. Instale o UV
 
-3 - Agora pode ir na pasta do jogo e no terminal de {C:...\ProfessorVSAluno>} e digite {uv init}, depois {uv run}
+Caso ainda não tenha o UV instalado, abra o terminal e execute:
 
-<br>
+```bash
+pip install uv
+```
 
-Quando instalar o UV e colocar ele para rodar, rode o arquivo {__init__.py} que irá iniciar o jogo
+Você também pode consultar a documentação oficial: https://docs.astral.sh/uv/
 
-OU entre na pasta dist, lá tem um executável do jogo para windows, só executar que o jogo roda
+### 2. Instale as dependências
 
-Espero que goste! Deu trabalho, mas valeu a pena, o trabalho do jogo final vai ser ainda melhor, já o iniciei.
+Abra o terminal na pasta principal do projeto (`ProfessorVSAluno`) e execute:
 
-OBS: Não pude as pastas de lugar, Fontes, Imagens e src devem estar exatamente onde estão, com os arquivos que guardam intactos
+```bash
+uv sync
+```
+
+Esse comando instalará as dependências necessárias para executar o jogo.
+
+### 3. Inicie o jogo
+
+Execute o comando de inicialização indicado pelo projeto:
+
+```bash
+[COMANDO DE EXECUÇÃO]
+```
+
+## 🕹️ Executando diretamente no Windows
+
+Se você não quiser instalar Python ou UV, pode utilizar o executável disponibilizado na pasta `dist`.
+
+1. Entre na pasta `dist`.
+2. Execute `Professor VS Aluno.exe`.
+3. Divirta-se!
+
+## ⚠️ Observações importantes
+
+- Não mova as pastas `Fonte`, `Imagens` e `src`.
+- Mantenha os arquivos e a organização original dessas pastas.
+- Caso execute o projeto pelo código-fonte, mantenha também os arquivos `pyproject.toml` e `uv.lock` na pasta principal.
+
+## ❤️ Considerações finais
+
+Espero que goste do jogo!
+
+Deu bastante trabalho desenvolvê-lo, mas valeu a pena. E esse é apenas o começo: o trabalho final da disciplina promete ser ainda melhor, e eu já comecei a desenvolvê-lo!
+
+Bom jogo!

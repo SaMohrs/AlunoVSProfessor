@@ -1,4 +1,4 @@
-#Jogo Professor VS Aluno
+<h1 align="left">Jogo Professor VS Aluno</h1>
 
 Antes de inicar o jogo, no terminal no caminho {C:...\ProfessorVSAluno>} digite {uv run}
 

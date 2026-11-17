@@ -31,7 +31,7 @@ Esse comando instalará as dependências necessárias para executar o jogo.
 Execute o comando de inicialização indicado pelo projeto:
 
 ```bash
-[COMANDO DE EXECUÇÃO]
+uv run python src/professorvsaluno/__init__.py
 ```
 
 ## 🕹️ Executando diretamente no Windows

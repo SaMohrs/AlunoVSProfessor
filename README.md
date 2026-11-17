@@ -52,6 +52,6 @@ Se você não quiser instalar Python ou UV, pode utilizar o executável disponib
 
 Espero que goste do jogo!
 
-Deu bastante trabalho desenvolvê-lo, mas valeu a pena. E esse é apenas o começo: o trabalho final da disciplina promete ser ainda melhor, e eu já comecei a desenvolvê-lo!
+Foi muito divertido desenvolvê-lo, meu primeiro jogo. E esse é apenas o começo: farei algo que promete ser ainda melhor, e eu já comecei a desenvolvê-lo!
 
 Bom jogo!

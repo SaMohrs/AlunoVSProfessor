@@ -1,8 +1,16 @@
+#Jogo Professor VS Aluno
+
 Antes de inicar o jogo, no terminal no caminho {C:...\ProfessorVSAluno>} digite {uv run}
+
 Caso não tenha o UV instalado:
+
 1 - Abra o terminal do seu computador (comando Windows + R, busque por cmd, se for Windows)
+
 2 - Digite {pip install uv}
+
 3 - Agora pode ir na pasta do jogo e no terminal de {C:...\ProfessorVSAluno>} e digite {uv init}, depois {uv run}
+
+<br>
 
 Quando instalar o UV e colocar ele para rodar, rode o arquivo {__init__.py} que irá iniciar o jogo
 
